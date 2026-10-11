@@ -24,5 +24,5 @@ Cut.js apps are compatible with modern browsers, they can also be published for 
 ### License
 Source codes, expect graphics and images, are available under the MIT license, but please do not use/reuse the game graphics and images.
 In short you are encouraged to publish/distribute this game with or without modification to source code but with alternative graphics.
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
